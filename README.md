@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
 
-- 🌱 I’m currently learning **Developing my skills**
+- 🌱 I’m currently  **Developing my skills**
 
 - 📫 How to reach me **daniel.cullinane@outlook.com**
 
