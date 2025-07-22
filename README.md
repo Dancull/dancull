@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Daniel Cullinane</h1>
+<h1 align="center">Hi 👋, I'm Daniel Cullinane</h1>
 <h3 align="center">Aspiring Software Developer and Cyber Security with a First-Class Honours degree in Computer Science</h3>
 
-- I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
+- 🔭 I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
 
-- I’m currently  **Developing my skills**
+- 🌱 I’m currently learning **Developing my skills**
 
-- How to reach me **daniel.cullinane@outlook.com**
+- 📫 How to reach me **daniel.cullinane@outlook.com**
 
-- Know about my experiences [https://www.linkedin.com/in/danielpcullinane/](https://www.linkedin.com/in/danielpcullinane/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/danielpcullinane/](https://www.linkedin.com/in/danielpcullinane/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/danielpcullinane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel cullinane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel cullinane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel cullinane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
