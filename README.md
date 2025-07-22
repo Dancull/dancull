@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Cullinane</h1>
-<h3 align="center">Aspiring Software Developer and Cyber Security with a First-Class Honours degree in Computer Science</h3>
+<h3 align="center">Aspiring Software Developer and Cyber Security Specalist with a First-Class Honours degree in Computer Science</h3>
 
 - 🔭 I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
 
