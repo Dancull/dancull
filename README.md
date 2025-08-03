@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Daniel Cullinane</h1>
 <h3 align="center">Aspiring Software Developer and Cyber Security Specalist with a First-Class Honours degree in Computer Science</h3>
 
-- 🔭 I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
+- I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
 
-- 📫 How to reach me **daniel.cullinane@outlook.com**
+- How to reach me **daniel.cullinane@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danielpcullinane/](https://www.linkedin.com/in/danielpcullinane/)
+- Know about my experiences [https://www.linkedin.com/in/danielpcullinane/](https://www.linkedin.com/in/danielpcullinane/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
