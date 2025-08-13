@@ -10,11 +10,6 @@ Currently, I am developing **Obfuscate & Encode**, a project that applies adapti
 
 ---
 
-### What I’m Working On
-- **Obfuscate & Encode:** Adaptive steganography through colour channels and biometric seeding.
-
----
-
 ### Featured Projects
 
 - **Obfuscate & Encode:** A novel steganography tool using colour channels and biometric seeding for secure data hiding.  
