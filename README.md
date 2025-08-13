@@ -1,11 +1,19 @@
 <h1 align="center">Hi, I'm Daniel Cullinane</h1>
-<h3 align="center">Aspiring Software Developer and Cyber Security Specalist with a First-Class Honours degree in Computer Science</h3>
+<h3 align="center">Aspiring Software Developer | First-Class Honours in Computer Science</h3>
 
-- I’m currently working on **Obfuscate & Encode: Adaptive Steganography Through Colour Channels and Biometric Seeding**
+---
 
-- How to reach me **daniel.cullinane@outlook.com**
+### About Me
+I am an aspiring software developer with a strong academic foundation, holding a First-Class Honours degree in Computer Science. I am passionate about building scalable, maintainable software solutions that address real-world challenges. My approach focuses on writing clean, efficient code while exploring new technologies and best practices to continuously improve.
 
-- Know about my experiences [https://www.linkedin.com/in/danielpcullinane/](https://www.linkedin.com/in/danielpcullinane/)
+Currently, I am developing **Obfuscate & Encode**, a project that applies adaptive steganography using colour channels and biometric seeding to enhance data security and privacy. This project reflects my interest in combining software development with advanced data protection techniques.
+
+### What I’m Working On
+- **Obfuscate & Encode:** Adaptive steganography through colour channels and biometric seeding.
+
+### How to Reach Me
+- Email: [daniel.cullinane@outlook.com](mailto:daniel.cullinane@outlook.com)  
+- LinkedIn: [linkedin.com/in/danielpcullinane](https://www.linkedin.com/in/danielpcullinane/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
