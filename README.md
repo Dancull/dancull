@@ -22,6 +22,8 @@ Currently, I am developing **Obfuscate & Encode**, a project that applies adapti
 - Email: [daniel.cullinane@outlook.com](mailto:daniel.cullinane@outlook.com)  
 - LinkedIn: [linkedin.com/in/danielpcullinane](https://www.linkedin.com/in/danielpcullinane/)
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel cullinane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel cullinane" height="30" width="40" /></a>
