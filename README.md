@@ -8,8 +8,20 @@ I am an aspiring software developer with a strong academic foundation, holding a
 
 Currently, I am developing **Obfuscate & Encode**, a project that applies adaptive steganography using colour channels and biometric seeding to enhance data security and privacy. This project reflects my interest in combining software development with advanced data protection techniques.
 
+---
+
 ### What I’m Working On
 - **Obfuscate & Encode:** Adaptive steganography through colour channels and biometric seeding.
+
+---
+
+### Featured Projects
+
+- **Obfuscate & Encode:** A novel steganography tool using colour channels and biometric seeding for secure data hiding.  
+- **Measure & Improve:** Personal Carbon Footprint Estimation via activity data parsing, emission factor modelling, and interactive sustainability reporting.  
+- **Compete & Connect:** Real-Time Multiplayer Pong featuring cross-language TCP networking, predictive movement smoothing, and encrypted state synchronisation.
+
+---
 
 ### How to Reach Me
 - Email: [daniel.cullinane@outlook.com](mailto:daniel.cullinane@outlook.com)  
