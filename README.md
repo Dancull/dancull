@@ -13,8 +13,8 @@ Currently, I am developing **Obfuscate & Encode**, a project that applies adapti
 ### Featured Projects
 
 - **Obfuscate & Encode:** A novel steganography tool using colour channels and biometric seeding for secure data hiding.  
-- **Measure & Improve:** Personal Carbon Footprint Estimation via activity data parsing, emission factor modelling, and interactive sustainability reporting.  
-- **Compete & Connect:** Real-Time Multiplayer Pong featuring cross-language TCP networking, predictive movement smoothing, and encrypted state synchronisation.
+- **Crisis-Tracking-Tool:** A real-time disaster monitoring dashboard built with JavaScript that fetches and visualizes live data from the USGS API. 
+- **Heuristic-Pathfinding-Tool:** An interactive C++ and SDL2 application that demonstrates core computer science algorithms in real-time.
 
 ---
 
