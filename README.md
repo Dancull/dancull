@@ -14,7 +14,7 @@ Currently, I am developing **Obfuscate & Encode**, a project that applies adapti
 
 - **Obfuscate & Encode:** A novel steganography tool using colour channels and biometric seeding for secure data hiding.  
 - **Crisis-Tracking-Tool:** A real-time disaster monitoring dashboard built with JavaScript that fetches and visualizes live data from the USGS API. 
-- **Heuristic-Pathfinding-Tool:** An interactive C++ and SDL2 application that demonstrates core computer science algorithms in real-time.
+- **Bin-Assistant-Architecture-Tool: **Architecture documentation and design patterns for the my Bin Day Assistant SaaS.
 
 ---
 
