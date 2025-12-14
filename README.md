@@ -14,7 +14,7 @@ Currently, I am developing **Obfuscate & Encode**, a project that applies adapti
 
 - **Obfuscate & Encode:** A novel steganography tool using colour channels and biometric seeding for secure data hiding.  
 - **BinSync:** Architecture documentation and design patterns for the my BinSync SaaS.
-- **Crisis-Tracking-Tool:** A real-time disaster monitoring dashboard built with JavaScript that fetches and visualizes live data from the USGS API. 
+
 
 ---
 
